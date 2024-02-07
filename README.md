@@ -16,3 +16,21 @@
 ![Demo](input/Untitled-5.png)
 ![Demo](input/Untitled-6.png)
 
+
+# Processing and Output
+
+### Feature Extraction
+![Demo](results/01_features_img1.jpg)
+![Demo](results/01_features_img2.jpg)
+
+### Matching Features
+![Demo](results/02_matches_img2_to_img4.jpg)
+
+### Seam Masking
+![Demo](results/08_seam_mask1.jpg)
+![Demo](results/08_seam_mask3.jpg)
+
+
+### Results
+![Demo](results/09_result_with_seam_lines.jpg)
+![Demo](results/09_result_with_seam_polygons.jpg)
