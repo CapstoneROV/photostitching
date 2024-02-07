@@ -7,14 +7,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-# Input Files
+# I/O Results
 
-![Demo](input/Untitled-1.png)
-![Demo](input/Untitled-2.png)
-![Demo](input/Untitled-3.png)
-![Demo](input/Untitled-4.png)
-![Demo](input/Untitled-5.png)
-![Demo](input/Untitled-6.png)
+![Demo](inputoutput.png)
 
 
 # Processing and Output
