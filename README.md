@@ -30,7 +30,9 @@ stitch.py [Directory]\*.png -v --confidence_threshold=0.9 --detector="orb"
 ```
 
 Important Notes:
-- The images must have a signifiant overlap
+- The images must have a signifiant overlap (Rover must take multiple images slowly as it moves through)
+- The more unique the features are the better (i.e. more corals - better results, just sand, not so good results)
+- It will be nice if we can orient the rover to an angle and move while taking picture so that it is as horizontal.
 - Must adjust the confidence threshold or use a new detector if it fails
 
 # I/O Results
